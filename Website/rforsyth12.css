@@ -1,0 +1,15 @@
+h1, h2 {
+    text-align: center
+}
+
+div{
+    background-color: #99D6FF;
+    padding: 15px;
+    border: double;
+    border-color: green;
+    margin: 40pt;
+}
+
+.yes {
+    background-color: #228b22; /* Forest Green */
+}
